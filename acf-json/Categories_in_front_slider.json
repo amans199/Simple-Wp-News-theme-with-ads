@@ -1,0 +1,42 @@
+{
+    "key": "group_5e3e322f34484",
+    "title": "Categories in front slider",
+    "fields": [
+        {
+            "key": "field_5e3e3240abfcf",
+            "label": "Categories in front slider",
+            "name": "Categories_in_front_slider",
+            "type": "true_false",
+            "instructions": "Show this category's posts within the front-page slider ..\r\nthe latest 10 posts of all marked category will be shown in the slider",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 0,
+            "ui_on_text": "",
+            "ui_off_text": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "taxonomy",
+                "operator": "==",
+                "value": "category"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": ""
+}
