@@ -23,6 +23,13 @@ Not a very complicated system but definitely a simple way to begin your website 
 4. the third is ( Square-ad ) : you may use it to show a squared 200*200 ad on the front page..
 5. the fourth is ( Vertical ad ) : you may use it to show a Vertical ad on both sides of the website ..
 
+### Usage
+The Theme Contains 4 sections on the frontpage : 
+1. the latest posts : it shows up below the navbar with the latest 3 posts .. 
+2. the slider : it shows the featured categories .. you may mark any category as featured from the checkbox on every category edit page.
+3. the featured posts : it shows the latest featured posts.. you may feature any post from the checkbox on the post edit page or from the quickedit of any post .. 
+4. the most viewed articles : it shows up next to the featured posts with the most viewed 5 articles .. 
+
 ## Contributing
 
 👉 Feel free to contribute to any of the files anywhere in the repository (or write some new ones!)
