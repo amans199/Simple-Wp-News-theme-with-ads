@@ -20,7 +20,7 @@ Not a very complicated system but definitely a simple way to begin your website 
 2. The first is ( Main Sidebar ) : you may use it to show some widgets on the categories page..
 3. The second is ( Horizontal ads ) : you may use it to show a horizontal banner from google for instance 
 .. it will be shown on the top of the website..
-4. the third is ( Square-ad ) : you may use it to show a horizontal 200*200 ad on the front page..
+4. the third is ( Square-ad ) : you may use it to show a squared 200*200 ad on the front page..
 5. the fourth is ( Vertical ad ) : you may use it to show a Vertical ad on both sides of the website ..
 
 ## Contributing
