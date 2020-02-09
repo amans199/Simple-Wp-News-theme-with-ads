@@ -10,7 +10,7 @@ just a running wordpress site, nothing else ..
 ### Installing and Deployment
 1. Download this theme as ZIP file.
 2. Upload the file to your wordpress site into themes DIR.
-3. After activating the theme it will show a message of the plugins needed so click on ( begin install )
+3. After activating the theme it will show a message of all the plugins needed so click on ( begin install )
 4. ACF will be installed with the fields needed..
 5. Start adding new posts
 
@@ -29,7 +29,7 @@ The Theme Contains 4 sections on the frontpage :
 2. the slider : it shows the featured categories .. you may mark any category as featured from the checkbox on every category edit page.
 3. the featured posts : it shows the latest featured posts.. you may feature any post from the checkbox on the post edit page or from the quickedit of any post .. 
 4. the most viewed articles : it shows up next to the featured posts with the most viewed 5 articles .. 
-
+Note : many of those section will not show up if you didn't use them ... for instance : if you didn't feature any post then the third and the fourth sections won't be there on the frontpage .. if you didn't feature any category , then the second section won't be there either .. 
 ## Contributing
 
 👉 Feel free to contribute to any of the files anywhere in the repository (or write some new ones!)
